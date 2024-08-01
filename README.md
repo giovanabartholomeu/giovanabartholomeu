@@ -1,8 +1,10 @@
-# Olá, Mundo! 👋
+# Hello! 👋
+<img src="https://github.com/user-attachments/assets/445f7637-bd5c-438a-b4c3-810f185fe329" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Quem Sou Eu?
 
-Eu sou a **Giovana**! Uma paulista que decidiu fazer as malas e se aventurar em Minas Gerais. Sou graduanda em **Engenharia de Software** pela Universidade Cesumar e atualmente estou estagiando na mesma área. 
+
+<p align="left"> 
+Eu sou a <strong>Giovana</strong>!! Uma paulista que decidiu fazer as malas e se aventurar em Minas Gerais. Sou graduanda em <strong>Engenharia de Software</strong> pela Universidade Cesumar e atualmente estou estagiando na mesma área. 
 
 Meu foco de estudos está voltado para o **backend**, especialmente no desenvolvimento de **Microsserviços** usando **Java**, **Spring** e **Micronaut**, entre outras tecnologias.
 <div> 
@@ -27,3 +29,4 @@ Estou sempre animada para fazer novas conexões e trocar ideias. Se você está 
 - **LinkedIn:** [Seu Perfil LinkedIn]
 
 Vamos nos conectar e ver o que podemos construir juntos! 🌟
+</p> 
