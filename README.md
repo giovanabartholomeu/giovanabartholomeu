@@ -5,6 +5,11 @@
 Eu sou a **Giovana**! Uma paulista que decidiu fazer as malas e se aventurar em Minas Gerais. Sou graduanda em **Engenharia de Software** pela Universidade Cesumar e atualmente estou estagiando na mesma área. 
 
 Meu foco de estudos está voltado para o **backend**, especialmente no desenvolvimento de **Microsserviços** usando **Java**, **Spring** e **Micronaut**, entre outras tecnologias.
+<div> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
+ 	<a href="" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
+</div>
 
 ## O Que Você Vai Encontrar Aqui 🚀
 
